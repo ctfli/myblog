@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://myblog-pearl-three.vercel.app/'
 locale = 'en-us'
 title = 'THE FIRST BLOG FOR ME'
 theme = "PaperMod"
